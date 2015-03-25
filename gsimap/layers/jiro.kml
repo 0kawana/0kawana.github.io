@@ -1,0 +1,20 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+  <Document>
+    <Style id="SYMBOL_Style1">
+      <IconStyle>
+        <Icon>
+          <href>http://cyberjapan.jp/symbols/101.png</href>
+        </Icon>
+        <scale>0.7</scale>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>三田本店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>みたほんてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.741647,35.64806</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
