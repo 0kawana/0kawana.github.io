@@ -3,7 +3,7 @@
     <Style id="SYMBOL_Style1">
       <IconStyle>
         <Icon>
-          <href>http://cyberjapan.jp/symbols/101.png</href>
+          <href>./layers/jiro.png</href>
         </Icon>
         <scale>0.7</scale>
       </IconStyle>
