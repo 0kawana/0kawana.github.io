@@ -9,11 +9,43 @@
       </IconStyle>
     </Style>
     <Placemark>
-      <name>三田本店</name>
-      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>みたほんてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <name>ラーメン二郎 三田本店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう みたほんてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
       <styleUrl>#SYMBOL_Style1</styleUrl>
       <Point>
         <coordinates>139.741647,35.64806</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 仙川店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう せんがわてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.583884,35.661768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 目黒店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう めぐろてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.707111,35.634201</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 歌舞伎町店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう かぶきちょうてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.701907,35.695831</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 品川店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう しながわてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.743052,35.62395</coordinates>
       </Point>
     </Placemark>
   </Document>
