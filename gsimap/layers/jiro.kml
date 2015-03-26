@@ -49,14 +49,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>ラーメン二郎 店</name>
-      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう てん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
-      <styleUrl>#SYMBOL_Style1</styleUrl>
-      <Point>
-        <coordinates></coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>ラーメン二郎 新宿小滝橋通り店</name>
       <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう しんじゅくおたきばしどおりてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
       <styleUrl>#SYMBOL_Style1</styleUrl>
